@@ -38,9 +38,8 @@ const employ = (raceName, data) => {
         }
     })
     const result = job[Math.floor(Math.random() * job.length)]
-    !data[data.indexOf(result)].workers ?
-        data[data.indexOf(result)].workers = 1 :
-        data[data.indexOf(result)].workers++
+
+    !data[data.indexOf(result)].workers ? data[data.indexOf(result)].workers = 1 : data[data.indexOf(result)].workers++
 
     return { jobName: result.jobName, rank: result.rank }
 }
