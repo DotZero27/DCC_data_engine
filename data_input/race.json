@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "Humans",
+      "totalPopulation": 40,
+      "finalIndex": 40
+    },
+    {
+      "name": "Cyborg",
+      "totalPopulation": 303,
+      "finalIndex": 343
+    },
+    {
+      "name": "Shapeshifter",
+      "totalPopulation": 485,
+      "finalIndex": 828
+    },
+    {
+      "name": "Alien",
+      "totalPopulation": 546,
+      "finalIndex": 1374
+    },
+    {
+      "name": "Machine",
+      "totalPopulation": 647,
+      "finalIndex": 2021
+    }
+  ]
+}

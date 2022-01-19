@@ -1,0 +1,53 @@
+{
+  "information": {
+    "totalSupply": 2021,
+    "metadata": {
+      "name": "Degen Citizen Pass",
+      "description": "A Distopic setting with hedonism driving the society.",
+      "symbol": "DCP",
+      "seller_fee_basis_points": 800,
+      "external_url": "https://www.youtube.com/c/XXXXX",
+      "creators": [
+        {
+          "address": "FBMrahQubg3peBrGBPn8wbmf3AgniC2TM2wThaCHpU3e",
+          "share": 50
+        },
+        {
+          "address": "GNniLmPJjE5s21YYRQDEoHuTBrJQG7JiymF3wqGZG4Dr",
+          "share": 50
+        }
+      ],
+      "collection": {
+        "name": "Degen Citizen Pass",
+        "family": "Degen Citizen Club"
+      }
+    }
+  },
+  "characterRace": [
+    {
+      "name": "Humans",
+      "totalPopulation": 40,
+      "finalIndex": 40
+    },
+    {
+      "name": "Cyborg",
+      "totalPopulation": 303,
+      "finalIndex": 343
+    },
+    {
+      "name": "Shapeshifter",
+      "totalPopulation": 485,
+      "finalIndex": 828
+    },
+    {
+      "name": "Alien",
+      "totalPopulation": 546,
+      "finalIndex": 1374
+    },
+    {
+      "name": "Machine",
+      "totalPopulation": 647,
+      "finalIndex": 2021
+    }
+  ]
+}

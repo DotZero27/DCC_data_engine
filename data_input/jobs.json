@@ -1,0 +1,718 @@
+{
+  "PROFESSION": [
+    {
+      "rank": "Legendary",
+      "jobName": "Prime Minister",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 2
+    },
+    {
+      "rank": "Legendary",
+      "jobName": "Bladesmith",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 1
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Magician",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 8
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Weapons dealer",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 4
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Drug dealer",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 3
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Astronaut",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 1
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Samurai",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 2
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Collector",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 12
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Film Director",
+      "exclusivity": [
+        "Humans"
+      ],
+      "notAvailable": [
+        "Cyborg",
+        "Shapeshifter",
+        "Alien",
+        "Machine"
+      ],
+      "workers": 7
+    },
+    {
+      "rank": "Common",
+      "jobName": "Cook",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 68
+    },
+    {
+      "rank": "Common",
+      "jobName": "Driver",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 59
+    },
+    {
+      "rank": "Common",
+      "jobName": "Baker",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 57
+    },
+    {
+      "rank": "Common",
+      "jobName": "Accountant",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 66
+    },
+    {
+      "rank": "Common",
+      "jobName": "Dancer",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 66
+    },
+    {
+      "rank": "Common",
+      "jobName": "Electrician",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 61
+    },
+    {
+      "rank": "Common",
+      "jobName": "Mechanic",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 63
+    },
+    {
+      "rank": "Common",
+      "jobName": "Engineers",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 71
+    },
+    {
+      "rank": "Common",
+      "jobName": "Dentist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 56
+    },
+    {
+      "rank": "Common",
+      "jobName": "Bartender",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 59
+    },
+    {
+      "rank": "Common",
+      "jobName": "Lawyer",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 55
+    },
+    {
+      "rank": "Common",
+      "jobName": "Plumber",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 65
+    },
+    {
+      "rank": "Common",
+      "jobName": "Teacher",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 66
+    },
+    {
+      "rank": "Common",
+      "jobName": "Singer",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 66
+    },
+    {
+      "rank": "Common",
+      "jobName": "Sales Agent",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 57
+    },
+    {
+      "rank": "Common",
+      "jobName": "Butcher",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 71
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Personal Assistant",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 55
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Model",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 50
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Piolet",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 49
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Streamer",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 54
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Paramedic",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 52
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Artist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 48
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Agriculturist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 69
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Animator",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 44
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Chemist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 43
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Politician",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 57
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Stock Trader",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 50
+    },
+    {
+      "rank": "Uncommon",
+      "jobName": "Crypto Investor",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 50
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Plague doctor",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 34
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Business Man",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 35
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Journalist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 41
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Hitman",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 29
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Epidemiologist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 25
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Credit Cops",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 33
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Jeweler",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 35
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Pro boxer",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 28
+    },
+    {
+      "rank": "Rare",
+      "jobName": "Astrobiologist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 39
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Defence Speacialist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 15
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Teraforming Speacialist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 9
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Biomechatronic Specialist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 12
+    },
+    {
+      "rank": "Epic",
+      "jobName": "Ship Specialist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 7
+    },
+    {
+      "rank": "Epic",
+      "jobName": "AI Specialist",
+      "exclusivity": [
+        "Cyborg",
+        "Machine",
+        "Alien",
+        "Shapeshifter"
+      ],
+      "notAvailable": [
+        "Humans"
+      ],
+      "workers": 12
+    }
+  ]
+}
