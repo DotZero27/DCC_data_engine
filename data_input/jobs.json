@@ -11,8 +11,7 @@
         "Shapeshifter",
         "Alien",
         "Machine"
-      ],
-      "workers": 2
+      ]
     },
     {
       "rank": "Legendary",
@@ -26,7 +25,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 1
+      "workers": 2
     },
     {
       "rank": "Epic",
@@ -40,7 +39,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 8
+      "workers": 4
     },
     {
       "rank": "Epic",
@@ -54,7 +53,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 4
+      "workers": 1
     },
     {
       "rank": "Epic",
@@ -82,7 +81,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 1
+      "workers": 3
     },
     {
       "rank": "Epic",
@@ -96,7 +95,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 2
+      "workers": 4
     },
     {
       "rank": "Rare",
@@ -110,7 +109,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 12
+      "workers": 10
     },
     {
       "rank": "Rare",
@@ -124,7 +123,7 @@
         "Alien",
         "Machine"
       ],
-      "workers": 7
+      "workers": 13
     },
     {
       "rank": "Common",
@@ -138,7 +137,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 68
+      "workers": 54
     },
     {
       "rank": "Common",
@@ -152,7 +151,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 59
+      "workers": 67
     },
     {
       "rank": "Common",
@@ -166,7 +165,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 57
+      "workers": 66
     },
     {
       "rank": "Common",
@@ -180,7 +179,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 66
+      "workers": 67
     },
     {
       "rank": "Common",
@@ -194,7 +193,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 66
+      "workers": 70
     },
     {
       "rank": "Common",
@@ -208,7 +207,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 61
+      "workers": 54
     },
     {
       "rank": "Common",
@@ -222,7 +221,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 63
+      "workers": 70
     },
     {
       "rank": "Common",
@@ -236,7 +235,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 71
+      "workers": 56
     },
     {
       "rank": "Common",
@@ -250,7 +249,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 56
+      "workers": 60
     },
     {
       "rank": "Common",
@@ -264,7 +263,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 59
+      "workers": 60
     },
     {
       "rank": "Common",
@@ -278,7 +277,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 55
+      "workers": 76
     },
     {
       "rank": "Common",
@@ -292,7 +291,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 65
+      "workers": 74
     },
     {
       "rank": "Common",
@@ -306,7 +305,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 66
+      "workers": 50
     },
     {
       "rank": "Common",
@@ -320,7 +319,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 66
+      "workers": 73
     },
     {
       "rank": "Common",
@@ -334,7 +333,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 57
+      "workers": 52
     },
     {
       "rank": "Common",
@@ -348,7 +347,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 71
+      "workers": 63
     },
     {
       "rank": "Uncommon",
@@ -362,7 +361,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 55
+      "workers": 50
     },
     {
       "rank": "Uncommon",
@@ -376,7 +375,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 50
+      "workers": 61
     },
     {
       "rank": "Uncommon",
@@ -390,7 +389,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 49
+      "workers": 39
     },
     {
       "rank": "Uncommon",
@@ -404,7 +403,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 54
+      "workers": 44
     },
     {
       "rank": "Uncommon",
@@ -418,7 +417,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 52
+      "workers": 54
     },
     {
       "rank": "Uncommon",
@@ -432,7 +431,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 48
+      "workers": 51
     },
     {
       "rank": "Uncommon",
@@ -446,7 +445,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 69
+      "workers": 39
     },
     {
       "rank": "Uncommon",
@@ -460,7 +459,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 44
+      "workers": 55
     },
     {
       "rank": "Uncommon",
@@ -474,7 +473,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 43
+      "workers": 34
     },
     {
       "rank": "Uncommon",
@@ -488,7 +487,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 57
+      "workers": 55
     },
     {
       "rank": "Uncommon",
@@ -502,7 +501,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 50
+      "workers": 45
     },
     {
       "rank": "Uncommon",
@@ -516,7 +515,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 50
+      "workers": 44
     },
     {
       "rank": "Rare",
@@ -530,7 +529,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 34
+      "workers": 46
     },
     {
       "rank": "Rare",
@@ -544,7 +543,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 35
+      "workers": 31
     },
     {
       "rank": "Rare",
@@ -558,7 +557,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 41
+      "workers": 28
     },
     {
       "rank": "Rare",
@@ -572,7 +571,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 29
+      "workers": 40
     },
     {
       "rank": "Rare",
@@ -586,7 +585,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 25
+      "workers": 41
     },
     {
       "rank": "Rare",
@@ -600,7 +599,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 33
+      "workers": 39
     },
     {
       "rank": "Rare",
@@ -614,7 +613,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 35
+      "workers": 38
     },
     {
       "rank": "Rare",
@@ -628,7 +627,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 28
+      "workers": 41
     },
     {
       "rank": "Rare",
@@ -642,7 +641,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 39
+      "workers": 37
     },
     {
       "rank": "Epic",
@@ -656,7 +655,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 15
+      "workers": 16
     },
     {
       "rank": "Epic",
@@ -670,7 +669,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 9
+      "workers": 10
     },
     {
       "rank": "Epic",
@@ -698,7 +697,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 7
+      "workers": 11
     },
     {
       "rank": "Epic",
@@ -712,7 +711,7 @@
       "notAvailable": [
         "Humans"
       ],
-      "workers": 12
+      "workers": 8
     }
   ]
 }

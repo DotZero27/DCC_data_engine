@@ -49,4 +49,7 @@ const generateStats = () => {
     console.log("*Finished & Saved Data!*")
 }
 
-generateStats()
+
+(() => {
+    generateStats()
+})();
